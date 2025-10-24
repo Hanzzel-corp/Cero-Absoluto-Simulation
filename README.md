@@ -7,7 +7,6 @@ siguiendo leyes clásicas de la termodinámica y energía del punto cero.
 - Cero-Absoluto.py → simulación base
 - Cero-Absoluto04.py → campo espacio-temporal
 - Cero-Absoluto06.py → fusión matemática y física
-- Gráficos PNG incluidos
 
 ## ⚛️ Inspiración
 Basado en los límites experimentales alcanzados por NASA (3.8×10⁻¹¹ K) y simulaciones propias
