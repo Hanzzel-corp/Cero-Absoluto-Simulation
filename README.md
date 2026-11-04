@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# 🧊 Cero Absoluto — Simulación Física Clásica
-
-Este proyecto explora la evolución térmica de un sistema al acercarse al Cero Absoluto (0 K),
-siguiendo leyes clásicas de la termodinámica y energía del punto cero.
-
-## 📊 Contenido
-- Cero-Absoluto.py → simulación base
-- Cero-Absoluto04.py → campo espacio-temporal
-- Cero-Absoluto06.py → fusión matemática y física
-
-## ⚛️ Inspiración
-Basado en los límites experimentales alcanzados por NASA (3.8×10⁻¹¹ K) y simulaciones propias
-del modelo matemático lineal clásico.
-
-## 📜 Licencia
-Uso libre con atribución a Hanzzel Corp ∑Δ9.
-=======
 # 🧊 Cero Absoluto — Simulación Física Clásica
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
@@ -23,9 +5,9 @@ Uso libre con atribución a Hanzzel Corp ∑Δ9.
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-green)](https://matplotlib.org)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-yellow)]()
 
-**Simulaciones termodinámicas del Cero Absoluto (0 K) con modelos clásicos, visualizaciones 2D/3D/4D y análisis espacio-temporal.**
+**Simulaciones computacionales ilustrativas sobre el límite del cero absoluto (0 K), con modelos clásicos y visualizaciones 2D/3D/4D.**
 
-Este proyecto explora la evolución térmica de sistemas físicos al acercarse al Cero Absoluto (0 K), siguiendo leyes clásicas de la termodinámica, el principio de incertidumbre cuántica y la energía del punto cero.
+Este proyecto explora la evolución térmica de sistemas físicos al acercarse al Cero Absoluto (0 K), mediante modelos matemáticos y visualizaciones. Las salidas son simulaciones computacionales, no mediciones físicas ni evidencia experimental de fluctuaciones cuánticas.
 
 ---
 
@@ -87,10 +69,10 @@ Cero-Absoluto-Simulation/
 ### Tercera Ley de la Termodinámica
 > Es imposible alcanzar el cero absoluto (0 K) mediante ningún proceso finito.
 
-Los scripts demuestran este principio mediante:
+Los scripts ilustran matemáticamente comportamientos compatibles con este principio mediante:
 - **Enfriamiento asintótico:** T(t) → 0 pero nunca T(t) = 0
 - **Energía del punto cero:** E_min > 0 incluso a T → 0
-- **Rebotes térmicos:** Fluctuaciones cuánticas inevitables
+- **Rebotes térmicos:** Términos oscilatorios incluidos en el modelo (no mediciones de fluctuaciones cuánticas)
 
 ### Record de Temperatura
 - **NASA Cold Atom Lab:** 3.8 × 10⁻¹¹ K (38 picokelvin)
@@ -220,4 +202,11 @@ Uso libre con atribución a **Hanzzel Corp ∑Δ9**.
 ---
 
 <p align="center">🧊 <i>El cero absoluto es asintótico... nunca alcanzable, siempre perseguido</i> 🧊</p>
->>>>>>> 4095e2b (feat: initial Linux setup for Cero-Absoluto-Simulation)
+
+---
+
+## Dirección de investigación y autoría
+
+**José Zamora — Investigador principal independiente (Independent Principal Investigator), Hanzzel Corp.**
+
+Este repositorio es un proyecto individual del ecosistema Hanzzel Corp. Su pertenencia al ecosistema no implica integración técnica con NCT ni validación de resultados más allá de la evidencia documentada aquí.
