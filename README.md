@@ -15,7 +15,7 @@ Este proyecto explora la evolución térmica de sistemas físicos al acercarse a
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/Cero-Absoluto-Simulation.git
+git clone https://github.com/Hanzzel-corp/Cero-Absoluto-Simulation.git
 cd Cero-Absoluto-Simulation
 
 # Crear entorno virtual
@@ -193,9 +193,11 @@ Uso libre con atribución a **Hanzzel Corp ∑Δ9**.
 
 ---
 
-## 👤 Autor
+## 👤 Autoría
 
-**Hanzzel Corp ∑Δ9**
+**Hanzzel Corp ∑Δ9** — proyecto institucional.
+
+Dirección de investigación: **José Zamora — Investigador principal independiente (Independent Principal Investigator)**.
 
 - Explorando los límites de la física clásica y cuántica mediante simulaciones computacionales
 
