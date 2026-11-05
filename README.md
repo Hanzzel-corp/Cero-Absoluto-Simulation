@@ -193,13 +193,13 @@ Uso libre con atribución a **Hanzzel Corp ∑Δ9**.
 
 ---
 
-## 👤 Autoría
+## 👤 Autoría y dirección de investigación
 
 **Hanzzel Corp ∑Δ9** — proyecto institucional.
 
-Dirección de investigación: **José Zamora — Investigador principal independiente (Independent Principal Investigator)**.
+**José Zamora — Investigador principal independiente (Independent Principal Investigator), Hanzzel Corp.**
 
-- Explorando los límites de la física clásica y cuántica mediante simulaciones computacionales
+- Exploración de los límites de la física clásica y cuántica mediante simulaciones computacionales
 
 ---
 
@@ -207,8 +207,6 @@ Dirección de investigación: **José Zamora — Investigador principal independ
 
 ---
 
-## Dirección de investigación y autoría
+## Relación con el ecosistema Hanzzel Corp.
 
-**José Zamora — Investigador principal independiente (Independent Principal Investigator), Hanzzel Corp.**
-
-Este repositorio es un proyecto individual del ecosistema Hanzzel Corp. La relación técnica de este proyecto con NCT, cuando existe, se limita al alcance descrito en esta documentación; la pertenencia institucional no implica integración adicional ni valida resultados más allá de la evidencia documentada aquí.
+Este repositorio forma parte del ecosistema Hanzzel Corp. La relación técnica de este proyecto con NCT, cuando existe, se limita al alcance descrito en esta documentación; la pertenencia institucional no implica integración adicional ni valida resultados más allá de la evidencia documentada aquí.
